@@ -89,7 +89,7 @@ Several regression models were trained and compared:
 Launch the Gradio app to test predictions in real time:
 
 ```bash
-python app.py
+python
 ```
 
 Go to `http://localhost:7860` to interact with the model via an intuitive UI.
