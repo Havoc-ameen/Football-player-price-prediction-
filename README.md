@@ -96,7 +96,7 @@ An interactive user interface is built using Gradio, allowing users to input cus
 - Stand Tackle: 75  
 
 **Output**
-- _Predicted Price_: 💰 **$42.3 Million**
+- _Predicted Price_: 💰 **$39.70 Million**
 
 ---
 
