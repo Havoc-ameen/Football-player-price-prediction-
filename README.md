@@ -35,8 +35,7 @@ Helps:
 
 | File                          | Description                                |
 |-------------------------------|--------------------------------------------|
-| `Football player price prediction.ipynb` | Complete ML workflow: EDA, preprocessing, training |
-| `app.py`                      | Gradio web app to test predictions         |
+| `Football player price prediction.ipynb` | Complete ML workflow: EDA, preprocessing, training |  
 | `requirements.txt`           | Python dependencies                        |
 | `README.md`                  | Project overview                           |
 
@@ -91,9 +90,6 @@ Launch the Gradio app to test predictions in real time:
 ```bash
 python
 ```
-
-Go to `http://localhost:7860` to interact with the model via an intuitive UI.
-
 ---
 
 ## 🎮 Sample Prediction
