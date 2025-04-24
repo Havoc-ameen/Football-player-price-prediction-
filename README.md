@@ -84,13 +84,7 @@ Several regression models were trained and compared:
 ---
 
 ## 🖥 Gradio App
-
-Launch the Gradio app to test predictions in real time:
-
-```bash
-python
-```
----
+An interactive user interface is built using Gradio, allowing users to input custom features and receive predicted baby weight in real time.
 
 ## 🎮 Sample Prediction
 
